@@ -1,4 +1,4 @@
-# MY-OWN:
+# Sriman-WalkThrough:
 go through infrastructure-as-code/dynamic-aws-creds directory, to store secret keys confidential.
 
 # Terraform Guides
