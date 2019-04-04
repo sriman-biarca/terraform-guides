@@ -1,3 +1,6 @@
+# MY-OWN:
+go through infrastructure-as-code/dynamic-aws-creds directory, to store secret keys confidential.
+
 # Terraform Guides
 This repository contains sample Terraform configurations, Sentinel policies, and automation scripts that can be used with Terraform Enterprise.
 
